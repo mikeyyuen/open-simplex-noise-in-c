@@ -3,3 +3,6 @@ CMakeCache.txt
 *.o
 *.a
 *.cmake
+Makefile
+sysroot
+install_manifest.txt
